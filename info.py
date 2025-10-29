@@ -121,7 +121,7 @@ THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))
 # Channel & Group Links Configuration
 # ============================
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+dOjDaXA2hFczZjg9') # Group link for the bot
-OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/owner_of_sk') # Owner link for the bot
+OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/SkHelpq_bot') # Owner link for the bot
 UPDATE_CHNL_LNK = environ.get('UPDATE_CHNL_LNK', 'https://t.me/SK_MOVIESZ') # Update channel link for the bot
 
 # ============================
