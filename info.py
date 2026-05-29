@@ -105,14 +105,14 @@ TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/How_To_Open_Link_06")   # S
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/How_To_Open_Link_06")   # Third tutorial link for verification
 
 # Verification (Must Fill All Veriables. Else You Got Error
-SHORTENER_API = environ.get("SHORTENER_API", "d200e6d92af0bf242b9d25fce8c9b7023bb7720e") # Shortener API key
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "linkshortify.com") # Shortener website
+SHORTENER_API = environ.get("SHORTENER_API", "b7751d50c1506a1731d5e863a584a294657a55c8") # Shortener API key
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "vplink.in") # Shortener website
 
-SHORTENER_API2 = environ.get("SHORTENER_API2", "d200e6d92af0bf242b9d25fce8c9b7023bb7720e")  # Shortener API key for second website
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "linkshortify.com") # Shortener website for second website
+SHORTENER_API2 = environ.get("SHORTENER_API2", "b7751d50c1506a1731d5e863a584a294657a55c8")  # Shortener API key for second website
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "vplink.in") # Shortener website for second website
 
-SHORTENER_API3 = environ.get("SHORTENER_API3", "d200e6d92af0bf242b9d25fce8c9b7023bb7720e")  
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "linkshortify.com") # Shortener website for third website
+SHORTENER_API3 = environ.get("SHORTENER_API3", "b7751d50c1506a1731d5e863a584a294657a55c8")  
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "vplink.in") # Shortener website for third website
 
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "1200")) # Time gap for two-step verification in seconds (default: 20 minutes)
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "54000"))    
